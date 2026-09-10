@@ -18,12 +18,12 @@ Students and Staff want a method of accurately booking, with transparent methods
 ## 4. Stakeholders
 Students - The equipment and it's avaiblility.
 Faculty 
--Lecturers - students being able to complete their assigned work.
--Professors - The equipment and it's avaiblility.
--Janitors/cleaning Staff - Possibly being tasked to find lost equipment.
--librarians - likely the current managers of the system - wants an easier system to manage and use in order to distribute equipment.
--IT - being tasked to fix equipment that may have been damaged or tampered with.
--
+- Lecturers - students being able to complete their assigned work.
+- Professors - The equipment and it's avaiblility.
+- Janitors/cleaning Staff - Possibly being tasked to find lost equipment.
+- librarians - likely the current managers of the system - wants an easier system to manage and use in order to distribute equipment.
+- IT - being tasked to fix equipment that may have been damaged or tampered with.
+
 ## 5. Goals
 Find one or two solutions to help solve most if not all of the problems that have cropped up due to the current systems inefficeny.
 - Appease both students and college faculty with potential solution.
