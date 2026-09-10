@@ -17,6 +17,7 @@ Students and Staff want a method of accurately booking, with transparent methods
 3) what calibre of solution is wanted. i.e. emails, paper or word of mouth. Possibly a fourth option such as a website or addition to a pre-existing app.
 ## 4. Stakeholders
 Students - The equipment and it's avaiblility.
+
 Faculty 
 - Lecturers - students being able to complete their assigned work.
 - Professors - The equipment and it's avaiblility.
