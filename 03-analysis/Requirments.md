@@ -34,5 +34,24 @@ Will this cause the same 'word of mouth' system that is currently in place if th
 -------------
 -------------
 
+# Quality Requirements
+------------
+## what are some non-functional/ quality requirements? 
+- The *Security* of equipment, to prevent damage or theft.
+- The *Privacy* of the people who book or pre-book equipment.
+- The specialised equipment being available and *accessible* to the students with specialised needs. (not giving it out to students who are deemed to not require it.)
+- Equipment is *usable* for all it's intended usages. (laptops having a series of locks that require an IT staff to open before a student can download an app they need for a module.
+- Equipment *preforms* as expected. damaged, defective or underperforming equipment is replaced and/or fixed.
+- Equipment will be *reliable* and consistent. Drops in quality will result in the equipment being deemed defective will be treated as just previously stated.
 
+
+  ## Possible quality requirements for college equipment booking systems.
+  - Students
+    - Good behaviour.
+      - A misbehaving student is likely to disrespect college property.
+    - No record of cheating on projects/exams.
+      - An unreliable student must prove they will not use the equipment for unintended purposes. 
+    - No record of loosing or damaging equipment.
+      - A Student who damages equipment must be watching more closely, if they cannot be trusted with college property they shall not be entitled to it.
+  
 
