@@ -35,7 +35,7 @@ Will this cause the same 'word of mouth' system that is currently in place if th
 -------------
 
 # Quality Requirements
-------------
+
 ## what are some non-functional/ quality requirements? 
 - The *Security* of equipment, to prevent damage or theft.
 - The *Privacy* of the people who book or pre-book equipment.
