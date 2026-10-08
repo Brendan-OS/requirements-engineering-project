@@ -36,6 +36,7 @@
 ## Purpose
 The diagrams purpose is to visualise the process in which the system will operate.
 Currently the diagram shows that the system will allow a student to;
+
 Check Equipment Availability for X Date --> IF TRUE --> Book Equipment for X Amount of Time --> X Time Later --> Return Equipment --> IF ISSUE WITH EQUIPMENT --> Report Problem to Equipment/IT Technician(s).
 
 Check Equipment Availability for X Date --> IF FALSE --> Cannot Book Equipment for this Date --> RESTART
