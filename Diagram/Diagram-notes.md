@@ -25,15 +25,36 @@
   - Replacing damaged or missing pieces.
   - Cleainging.
 
-# Activity Diagram
-## Process Modelled
 
+
+# Activity Diagram
+### Draw.io; Used for Diagram creation, current applicable diagram ver: 2.9
+
+## Process Modelled
+???
 
 ## Purpose
+The diagrams purpose is to visualise the process in which the system will operate.
+Currently the diagram shows that the system will allow a student to;
+Check Equipment Availability for X Date --> IF TRUE --> Book Equipment for X Amount of Time --> X Time Later --> Return Equipment --> IF ISSUE WITH EQUIPMENT --> Report Problem to Equipment/IT Technician(s).
+                                      |                                                                                          |
+                                      \-- > IF FALSE --> Cannot Book Equipment for this Date --> RESTART                         \--> IF NO ISSUE --> RESTART
 
+This is the longest path within the diagram and shows off the most of it. I expect to add and improve it further as time progresses.
 
 ## Activities
+- Checking Availability.
+- Booking Equipment.
+- Return Equipment.
+- Reporting Issue with Equipment.
+- Fixing Issue(s) with Equipment.
+- Ordering more/Replacing Equipment.
 
+### Possible more Activities/Use Cases;
+- Authorising Booking of Special Equipment.
+- Pursuing Legal Action for Misuse and/or Theft of Equipment.
+- Request Extension on Current Booking.
+- Authorise Booking. (i.e. Student may require reason from lecturer(s)/modules in order to apply for equipment.)
 
 ## Decision & Guards
 
