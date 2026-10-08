@@ -24,3 +24,29 @@
   - Updates.
   - Replacing damaged or missing pieces.
   - Cleainging.
+
+# Activity Diagram
+## Process Modelled
+
+
+## Purpose
+
+
+## Activities
+
+
+## Decision & Guards
+
+
+## Unknowns
+
+
+## Stakeholder Questions
+
+
+## Modelling Decision
+
+
+## Reflection
+
+
