@@ -60,17 +60,22 @@ This is the longest path within the diagram and shows off the most of it. I expe
 - Authorise Booking. (i.e. Student may require reason from lecturer(s)/modules in order to apply for equipment.)
 
 ## Decision & Guards
-
+???
 
 ## Unknowns
-
+- How strict the new system will be. (How much authorisation will be required for certain tasks.)
+- If different equipment will require different methods of booking.
+- What style of system would be most easily adopted. (Paper, App, Web, ect)
 
 ## Stakeholder Questions
-
+- How many technicians will be assigned to the maintenance and upkeep of the system.
+- Who will be overseer of the system?
+- How many students on average use this system?
+- Will there be enough equipment as there is currently?
 
 ## Modelling Decision
-
+Use case or Activity Diagram?
 
 ## Reflection
-
+???
 
