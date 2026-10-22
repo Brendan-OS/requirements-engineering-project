@@ -6,7 +6,7 @@ Name: Brendan O'Sullivan
 ## Module
 Requirements Engineering
 ## Project Status
-Week 1 — Initial discovery
+Week 1 — Initial discovery.
 Week 7 - WDB
 ## Repository Purpose
 N/A
